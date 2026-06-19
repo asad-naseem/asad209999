@@ -1,34 +1,46 @@
-# 🚀 Control Systems, DSP & Python Projects
+# Backend Development Projects
 
-This repository showcases my practical and academic work in **Control Systems**, **Digital Signal Processing (DSP)**, and **Software Development** using **Python** and **C++**.  
-The projects here reflect both theoretical understanding and hands-on implementation, focusing on clean code, mathematical modeling, and real-world engineering applications.
+This repository contains my backend development work focused on building
+**RESTful APIs**, **authentication systems**, and **database-driven applications**.
 
----
-
-## 🎯 Core Focus Areas
-- Control System Modeling & Analysis
-- Digital Signal Processing (DSP)
-- Numerical Methods & Simulations
-- Algorithm Development
-- Engineering-Oriented Python & C++ Programming
+These projects demonstrate my ability to design scalable backend architectures
+alongside my core background in Control Systems and DSP.
 
 ---
 
-## 🧠 Skills Demonstrated
-- ✔️ Control System Design (LTI systems, stability, response analysis)
-- ✔️ DSP concepts (sampling, filtering, transforms)
-- ✔️ Numerical simulations and data visualization
-- ✔️ Modular and readable code design
-- ✔️ Problem-solving with engineering mindset
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, C++
-- **Libraries (Python):** NumPy, SciPy, Matplotlib
-- **Concepts:** Signals & Systems, Feedback Control, DSP Algorithms
-- **Tools:** Git, GitHub, VS Code
+## Projects Included
+
+### 1️⃣ E-commerce Backend API
+- User authentication & authorization
+- Product & order management
+- RESTful architecture
+
+### 2️⃣ Authentication System
+- JWT-based login & signup
+- Secure password handling
+- Middleware-based access control
 
 ---
 
-## 📂 Repository Structure
+## Key Skills Demonstrated
+- Backend architecture design
+- API development
+- Database modeling
+- Secure authentication
+- Clean and modular code
+
+---
+
+## Future Improvements
+- API documentation (Swagger)
+- Role-based access control
+- Dockerization
